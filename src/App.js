@@ -1,5 +1,5 @@
 import "./styles.css";
-import React from "react";
+import React from 'react'
 
 const App = () => {
   const [counter, setCounter] = React.useState(0);
